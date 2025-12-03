@@ -1,4 +1,5 @@
 A. # Prediksi-Kelulusan-Mahasiswa-Menggunakan-Support-Vector-Machine-SVM-
+
 B. Fitur-fitur dalam Dataset:
 NAMA - Nama mahasiswa (tidak digunakan untuk modeling)
 JENIS KELAMIN - Kategorikal: PEREMPUAN, LAKI - LAKI
