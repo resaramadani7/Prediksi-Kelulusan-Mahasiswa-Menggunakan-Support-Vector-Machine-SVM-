@@ -32,8 +32,8 @@ Jalankan sel pertama untuk mengupload dataset
 Upload file datakelulusanmahasiswa.csv
 Jalankan semua sel (Runtime → Run all)
 F.  Identitas mahasiswa :
-1. nama : norresa ramadani
-2. prodi: manajemen
-3. npm :2461201002125
+1. Nama :Norresa Ramadani
+2. Prodi: Manajemen
+3. NPM :2461201002125
 
    link tugas : https://colab.research.google.com/drive/12O4fOIhg65pLqcJbcQdjmTvVywIX518O?usp=sharing
