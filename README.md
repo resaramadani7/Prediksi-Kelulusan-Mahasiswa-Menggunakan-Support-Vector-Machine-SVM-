@@ -1,14 +1,14 @@
 A. # Prediksi-Kelulusan-Mahasiswa-Menggunakan-Support-Vector-Machine-SVM-
 
 B. Fitur-fitur dalam Dataset:
-NAMA - Nama mahasiswa (tidak digunakan untuk modeling)
-JENIS KELAMIN - Kategorikal: PEREMPUAN, LAKI - LAKI
-STATUS MAHASISWA - Kategorikal: BEKERJA, MAHASISWA
-UMUR - Numerik: Usia mahasiswa
-STATUS NIKAH - Kategorikal: MENIKAH, BELUM MENIKAH
-IPS 1 sampai IPS 8 - Numerik: Indeks Prestasi Semester 1-8 (skala 0-4)
-IPK - Numerik: Indeks Prestasi Kumulatif (skala 0-4)
-STATUS KELULUSAN - Target: TEPAT, TERLAMBAT
+1. NAMA - Nama mahasiswa (tidak digunakan untuk modeling)
+2. JENIS KELAMIN - Kategorikal: PEREMPUAN, LAKI - LAKI
+3. STATUS MAHASISWA - Kategorikal: BEKERJA, MAHASISWA
+4. UMUR - Numerik: Usia mahasiswa
+5. STATUS NIKAH - Kategorikal: MENIKAH, BELUM MENIKAH
+6. IPS 1 sampai IPS 8 - Numerik: Indeks Prestasi Semester 1-8 (skala 0-4)
+7. IPK - Numerik: Indeks Prestasi Kumulatif (skala 0-4)
+8. STATUS KELULUSAN - Target: TEPAT, TERLAMBAT
 C. Langkah pengerjaan : 
 1. . Exploratory Data Analysis (EDA)
 2. Preprocessing Data
@@ -20,10 +20,10 @@ C. Langkah pengerjaan :
 D. HASIL evaluasi model:
 Model SVM dengan kernel RBF berhasil memprediksi status kelulusan mahasiswa (TEPAT vs TERLAMBAT) dengan akurasi 92.41%. Model menunjukkan performa excellent dengan precision 92.70%, recall 92.41%, dan ROC-AUC 96.50%.
 FAKTOR PENENTU:
-IPK - faktor paling dominan
-IPS Semester 4 - titik kritis studi
-Status Mahasiswa - full-time lebih tepat waktu
-Konsistensi IPS dari semester awal
+1.  K - faktor paling dominan
+2.  IPS Semester 4 - titik kritis studi
+3.  Status Mahasiswa - full-time lebih tepat waktu
+4.  Konsistensi IPS dari semester awal
 E.  Cara Menjalankan Notebook
 Di Google Colab:
 Buka Google Colab
